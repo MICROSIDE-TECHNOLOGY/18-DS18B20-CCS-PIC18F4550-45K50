@@ -1,0 +1,23 @@
+[PROJECT]
+Target=Sensor de temperatura DS18B20.hex
+Processor_Text=PIC18F4550
+CCSVersion=5.090
+Compiler=PCH
+[Target Data]
+FileList=Sensor de temperatura DS18B20.c
+[Sensor de temperatura DS18B20.c]
+Type=4
+[mru-list]
+1=Sensor de temperatura DS18B20.c
+[Units]
+Count=1
+1=Sensor de temperatura DS18B20 (main)
+
+[defines]
+buildcount=1
+
+[ProjectLog]
+Days=1
+D1=02-12-2020
+D1_L=1
+D1_L1=[36031]Project Closed.
